@@ -1,6 +1,5 @@
 My Sandbox h1
 ===============
-
 test [hatena diary](http://d.hatena.ne.jp/hirose31/)
 
 Curry h2
