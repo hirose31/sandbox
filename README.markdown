@@ -16,11 +16,9 @@ aa
 aa
 
 * ninjin
-  * aaa
+ * tanzaku
 * niku
-** aaa
 * tamanegi
-  ** aaa
 
 > qu
 > ote
