@@ -33,3 +33,7 @@ or 4spaces
 
     niru!
     niru!
+
+---
+
+* [doc/intro](blog/master/doc/intro.md)
