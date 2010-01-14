@@ -16,6 +16,8 @@ aa
 aa
 
 * ninjin
+  * tanzaku
+    * giri
 * niku
 * tamanegi
 
