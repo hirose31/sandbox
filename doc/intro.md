@@ -15,9 +15,9 @@ iiiiii
 uuuuuuuuuuuuuu
 eeeeeeee
 
-  $ ./configure
-  $ make
-  $ 須藤 make install
+    $ ./configure
+    $ make
+    $ 須藤 make install
 
 **jkldafa** mkfdaldfamklda
 

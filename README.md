@@ -1,6 +1,9 @@
 My Sandbox h1
 ===============
-test [hatena diary](http://d.hatena.ne.jp/hirose31/)
+
+* [doc/intro](sandbox/blob/master/doc/intro.md) intro-dayo
+
+* foo [hatena diary](http://d.hatena.ne.jp/hirose31/) bar
 
 Curry h2
 -------------
@@ -38,4 +41,3 @@ or 4spaces
 
 ---
 
-* [doc/intro](blog/master/doc/intro.md)
