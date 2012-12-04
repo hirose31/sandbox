@@ -1,4 +1,4 @@
-<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+<link href="md.css" rel="stylesheet"></link>
 
 My Sandbox h1
 ===============
