@@ -1,5 +1,3 @@
-<link href="md.css" rel="stylesheet"></link>
-
 My Sandbox h1
 ===============
 
