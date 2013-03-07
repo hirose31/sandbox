@@ -1,0 +1,23 @@
+__END__
+
+=encoding utf-8
+
+=head1 NAME
+
+ぱっぱかぱー
+
+=head1 SYNOPSIS
+
+    WWWWW
+    iiiii
+
+  WWWWW
+  iiiii
+
+=head1 SEE ALSO
+
+L<Module::Hoge|Module::Hoge>,
+L<https://github.com/hirose31/sandbox>,
+ls(1), cd(1)
+
+=cut
