@@ -16,6 +16,13 @@ aaa
   WWWWW
   iiiii
 
+aaa
+
+ WWWWW
+ iiiii
+
+↑これ1スペでもいいみたい。
+
 =head1 SEE ALSO
 
 L<Module::Hoge|Module::Hoge>,
