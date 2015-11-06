@@ -4,14 +4,14 @@
 **Table of Contents**
 
 - [Hello](#hello)
-    - [foo](#foo)
+    - [foo32](#foo32)
         - [bar](#bar)
     - [baz](#baz)
     - [ふー](#ふー)
         - [barばー](#barばー)
         - [baズz](#baズz)
         - [spa ce](#spa-ce)
-        - [hai-fun](#hai-fun)
+        - [hai-fun2](#hai-fun2)
 
 <!-- markdown-toc end -->
 
@@ -22,7 +22,7 @@
 - sandbox@9f0e5031ddd6dd349b73d25fbc583269794ffa18
 - hirose31@9f0e5031ddd6dd349b73d25fbc583269794ffa18
 
-## foo
+## foo32
 
 ### bar
 
@@ -36,7 +36,7 @@
 
 ### spa ce
 
-### hai-fun
+### hai-fun2
 
 a
 
