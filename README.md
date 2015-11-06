@@ -7,9 +7,9 @@
     - [foo](#foo)
         - [bar](#bar)
     - [baz](#baz)
-    - [ふー](#)
-        - [barばー](#bar)
-        - [baズz](#baz)
+    - [ふー](#%E3%81%B5%E3%83%BC)
+        - [barばー](#bar%E3%81%B0%E3%83%BC)
+        - [baズz](#ba%E3%82%BAz)
 
 <!-- markdown-toc end -->
 
