@@ -11,6 +11,7 @@
         - [barばー](#barばー)
         - [baズz](#baズz)
         - [spa ce](#spa-ce)
+        - [spa-ce](#spa-ce)
 
 <!-- markdown-toc end -->
 
