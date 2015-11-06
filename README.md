@@ -11,7 +11,7 @@
         - [barばー](#barばー)
         - [baズz](#baズz)
         - [spa ce](#spa-ce)
-        - [spa-ce](#spa-ce)
+        - [hai-fun](#hai-fun)
 
 <!-- markdown-toc end -->
 
@@ -36,7 +36,7 @@
 
 ### spa ce
 
-### spa-ce
+### hai-fun
 
 a
 
