@@ -1,6 +1,6 @@
 # Hello
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
 - [Hello](#hello)
@@ -12,9 +12,9 @@
         - [baズz](#baズz)
         - [spa ce](#spa-ce)
         - [hai-fun2](#hai-fun2)
+        - [under_score](#underscore)
 
 <!-- markdown-toc end -->
-
 
 - 9f0e503
 - 9f0e5031ddd6dd349b73d25fbc583269794ffa18
@@ -37,6 +37,8 @@
 ### spa ce
 
 ### hai-fun2
+
+### under_score
 
 a
 
